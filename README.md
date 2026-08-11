@@ -651,6 +651,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tdf](https://github.com/itsjunetime/tdf) A tui-based PDF viewer 
 - [terminal-yt](https://github.com/jooooscha/terminal-yt) A small newsboat-inspired terminal youtube manager
 - [termusic](https://github.com/tramhao/termusic) Music Player TUI written in Rust
+- [gtm](https://github.com/prjctimg/gtm.rs) Terminal audio player with background playback support and YouTube/Spotify integration
 - [textual-paint](https://github.com/1j01/textual-paint) MS Paint in your terminal
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
